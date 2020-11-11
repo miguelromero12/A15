@@ -22,7 +22,7 @@ a:focus, a:hover {
 }
 /* the styles for the navigation menu */
 #nav_menu ul{
-    list-style-type:none;
+    list-style-type:circle;
     margin: 0;
     padding: 0;
     position: relative;
